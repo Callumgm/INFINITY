@@ -16,6 +16,12 @@
 </p>
 
 
+## <a id="skids"></a>🤓 〢 Dear Skids
+We all know you cant code for shit but skidding peoples hard work, is just not it \
+Profiting from it is just even more f\*cked up \
+I hope you end up on the streets begging for spare change
+
+<br>
 
 
 ## 💭 〢 ChangeLog
@@ -42,11 +48,9 @@ v5 ⋮ 08-12-2022
 + Reworked visible check
 ```
 
-
+<br>
 
 ## 👤 〢 Author
-
-
 
  👤 **CookiesKush420**  
 
@@ -56,7 +60,7 @@ v5 ⋮ 08-12-2022
 
 
 
-
+<br>
 
 ## 🤝 〢 Contributing
 
@@ -66,14 +70,14 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check
 
 
 
-
+<br>
 
 ## 🌟 〢 Show your support
 
 Give a ⭐️ if this project helped you! 
 
 
-
+<br>
 
 
 ## 📝 〢 License
