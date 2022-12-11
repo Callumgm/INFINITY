@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to INFINITY 👋</h1>
 
+> The best project delta script!
 
 
 <p align="center">
