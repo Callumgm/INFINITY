@@ -1,19 +1,9 @@
 <h1 align="center">Welcome to INFINITY 👋</h1>
-
-> The best project delta script!
-
-
 <p align="center">
-
   <img src="https://img.shields.io/badge/version-5-blue.svg?cacheSeconds=2592000" >
-
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" >
-
   <img src="https://img.shields.io/badge/license-Apache-yellow.svg" >
-
   <img src="https://img.shields.io/github/last-commit/Callumgm/INFINITY">
-
-
 </p>
 
 
