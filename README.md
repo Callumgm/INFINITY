@@ -8,7 +8,7 @@
 
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" >
 
-  <img src="https://img.shields.io/badge/license-MIT-yellow.svg" >
+  <img src="https://img.shields.io/badge/license-Apache-yellow.svg" >
 
   <img src="https://img.shields.io/github/last-commit/Callumgm/INFINITY">
 
@@ -84,7 +84,7 @@ Give a ⭐️ if this project helped you!
 
  Copyright © 2022
 
-[CookiesKush420](https://github.com/Callumgm).<br />  This project is [MIT](https://github.com/CallumgmINFINITY/blob/master/LICENCE) licensed. 
+[CookiesKush420](https://github.com/Callumgm).<br />  This project is [Apache](https://github.com/Callumgm/INFINITY/blob/master/LICENCE) licensed. 
 
 
 
