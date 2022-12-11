@@ -84,7 +84,7 @@ Give a ⭐️ if this project helped you!
 
  Copyright © 2022
 
-[CookiesKush420](https://github.com/Callumgm).<br />  This project is [Apache](https://github.com/Callumgm/INFINITY/blob/master/LICENCE) licensed. 
+[CookiesKush420](https://github.com/Callumgm).<br />  This project is [Apache](https://github.com/Callumgm/INFINITY/blob/main/LICENSE.md) licensed. 
 
 
 
