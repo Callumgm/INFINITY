@@ -41,18 +41,6 @@ v5 ⋮ 08-12-2022
 
 <br>
 
-## 👤 〢 Author
-
- 👤 **CookiesKush420**  
-
-- Website: http://cookiesservices.xyz/  
-
-- GitHub: [@Callumgm](https://github.com/Callumgm)    
-
-
-
-<br>
-
 ## 🤝 〢 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check
